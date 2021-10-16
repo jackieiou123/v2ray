@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/v2rayL/v2rayLui
+Icon=/etc/v2rayL/images/logo.ico
+Hidden=false
+NoDisplay=false
+Name=v2rayL
+Comment=v2ray-v2rayL
