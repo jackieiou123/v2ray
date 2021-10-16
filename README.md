@@ -9,6 +9,6 @@ https://github.com/jiangxufeng/v2rayL
 # 使用方法
 git clone https://github.com/jackieiou123/v2ray.git
 
-cd ./v2ray-maser
+cd ./v2ray
 
 ./install.sh
